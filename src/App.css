@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #dfe6e9;
+}
+
+* {
+  outline: none;
+}
+
+h1 {
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+h1,
+li {
+  color: #2d3436;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #a29bfe;
+  cursor: pointer;
+}
